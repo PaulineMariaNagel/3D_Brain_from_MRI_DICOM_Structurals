@@ -13,6 +13,15 @@ A Python-based interactive web dashboard built with **Dash** and **Plotly** for 
 
 ---
 
+
+## Demo & Preview
+
+### Dashboard Screenshot
+![Dashboard Preview](3dbrain.png)
+
+### Video Walkthrough
+*[click here to view the video](3dbrain.mp4)*
+
 ## Prerequisites & Dependencies
 
 Make sure you have Python installed along with the required libraries:
